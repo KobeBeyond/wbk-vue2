@@ -1,5 +1,7 @@
 <template>
-    <div>Bar</div>
+    <div>
+        <a-date-picker />
+    </div>
 </template>
 <script>
 export default {
